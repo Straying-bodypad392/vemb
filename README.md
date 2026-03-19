@@ -2,6 +2,10 @@
 
 httpie for embeddings. Embed text, images, audio, video, and PDFs from the command line.
 
+<p align="center">
+  <img src="demo.gif" alt="vemb demo" width="700">
+</p>
+
 ```bash
 pipx install vemb
 export GEMINI_API_KEY=your_key
